@@ -1,4 +1,4 @@
-# Wordle game / 5 от тбанка (копия)
+# Wordle game / 5 букв от тбанка (копия)
 
 https://wordle-deploy.vercel.app/
 
