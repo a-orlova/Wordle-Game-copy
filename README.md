@@ -1,5 +1,7 @@
 # Wordle game / 5 от тбанка (копия)
 
+https://wordle-deploy.vercel.app/
+
 Wordle / 5 букв - браузерная игра на угадывание слова по буквам. игрок вводит буквы, теряет жизни при ошибках и пытается угадать слово до их окончания.
 
 <img width="790" height="813" alt="image" src="https://github.com/user-attachments/assets/97559d36-b5b8-42ec-b111-57f9e406a3bf" />
